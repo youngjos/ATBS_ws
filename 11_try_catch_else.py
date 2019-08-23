@@ -16,6 +16,6 @@ def div42by(divideBy):
          
 print(div42by(0)) # ZeroDivisionError
 print(div42by('six')) # TypeError, not specified will go to unspecified except block
-print(div42by(2)) # No error, will go to else block
+print(div42by(2)) # no error, will go to else block
 
 

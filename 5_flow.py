@@ -16,6 +16,6 @@ elif age > 100:
     print('Your too old to be Alice.')
 
 # Truthy and Falsey values
-# Blank string is falsey, all others are truthy
-# 0 and 0.0 are falsey, all others are truthy
-# bool() function returns a true or false value based on the truthy and falsey state of the argument
+# blank string is Falsey, all others are Truthy
+# 0 and 0.0 are Falsey, all others are Truthy
+# bool() function returns a True or False value based on the Truthy and Falsey state of the argument
